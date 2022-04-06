@@ -1,0 +1,5 @@
+my.list.values=Gin,Rum,Whiskey
+
+db.connection= connectionString-From-config-server
+db.host=128.0.0.1
+db.port=2900
